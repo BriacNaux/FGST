@@ -2,8 +2,10 @@
 
 'FGST' stands for Forest Graphical Simulation Tool. It is an application that allows you to generate an environment and simulate plant populations growth in it. The idea came from my fascination with how people read the landscape and my investigation into forest ecosystem simulation in the French scientific community. Since that there was no way to figure out what was the tangible changes those scientists were talking about, i thought that it would be useful and didactic to create a tool that allows everyone to explore their way of reading forest landscape. It allows you to model a simulation by choosing variables such as species distributions, density, latitude etc. With the output staitstics and 3d rendering, it allows the user to understand further forestry choices and the impact of climate changes.
 
+<div align="center">
+  <img src="https://github.com/BriacNaux/FGST/tree/master/images/FGST_1.png"/>
+</div>
 
-![image](https://github.com/BriacNaux/FGST/tree/master/images/FGST_1.png)
 
 One of the other interests that i will try to develop in the future is to allow the user to take control of the variables of the environment, (not only the forest variables) and link them to external inputs or projects by hardware or software. Therefore, anyone with an artistic approach can create generative artwork linking forest 3d growth and sound for example or even performance.
 
